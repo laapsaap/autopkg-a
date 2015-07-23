@@ -5,7 +5,7 @@
     <key>Description</key>
     <string>Downloads latest Skype disk image and imports into Munki.</string>
     <key>Identifier</key>
-    <string>com.github.laapsaap.munki.Skype</string>
+    <string>com.github.autopkg.a.munki.Skype</string>
     <key>Input</key>
     <dict>
         <key>NAME</key>
