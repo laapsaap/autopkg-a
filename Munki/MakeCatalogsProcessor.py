@@ -10,7 +10,7 @@
     <meta name="viewport" content="width=1020">
     
     
-    <title>recipes/Skype.munki.recipe at master · autopkg/recipes · GitHub</title>
+    <title>recipes/MakeCatalogsProcessor.py at master · autopkg/recipes · GitHub</title>
     <link rel="search" type="application/opensearchdescription+xml" href="/opensearch.xml" title="GitHub">
     <link rel="fluid-icon" href="https://github.com/fluidicon.png" title="GitHub">
     <link rel="apple-touch-icon" sizes="57x57" href="/apple-touch-icon-114.png">
@@ -34,7 +34,7 @@
 
         <meta name="google-analytics" content="UA-3769691-2">
 
-    <meta content="collector.githubapp.com" name="octolytics-host" /><meta content="collector-cdn.github.com" name="octolytics-script-host" /><meta content="github" name="octolytics-app-id" /><meta content="5071101A:667E:11E902E:55B0B682" name="octolytics-dimension-request_id" />
+    <meta content="collector.githubapp.com" name="octolytics-host" /><meta content="collector-cdn.github.com" name="octolytics-script-host" /><meta content="github" name="octolytics-app-id" /><meta content="5071101A:667B:154552D:55B0B65C" name="octolytics-dimension-request_id" />
     
     <meta content="Rails, view, blob#show" data-pjax-transient="true" name="analytics-event" />
     <meta class="js-ga-set" name="dimension1" content="Logged Out">
@@ -48,7 +48,7 @@
 
 
     <meta content="authenticity_token" name="csrf-param" />
-<meta content="aLJgzdl1djfzURN8tUfpZRt9aFEtzJL6vszZ57OI8Ho/GNNy9btg1JYPvUZ6Dxh7UlbsocvuTv/TQ3FnIAKZvQ==" name="csrf-token" />
+<meta content="ESAUUy6UBUBoklGDi2cKBKyP7KJZqla7vv6c9FKc4LHWsUxoeCoMZOMwrxgu/ykKbeYoDnoPDaE1zWGHjMCaVQ==" name="csrf-token" />
 
     <link crossorigin="anonymous" href="https://assets-cdn.github.com/assets/github/index-50695c5163ac470fa2c366bc981c3513f8feb7d6a55f8cb1c56501dc46585f0e.css" media="all" rel="stylesheet" />
     <link crossorigin="anonymous" href="https://assets-cdn.github.com/assets/github2/index-143e367d99d21ba3e43ce12c62930c01f279d633580057706c601e70ee6e6eff.css" media="all" rel="stylesheet" />
@@ -87,7 +87,7 @@
 
     <div class="header-actions" role="navigation">
         <a class="btn btn-primary" href="/join" data-ga-click="(Logged out) Header, clicked Sign up, text:sign-up">Sign up</a>
-      <a class="btn" href="/login?return_to=%2Fautopkg%2Frecipes%2Fblob%2Fmaster%2FSkype%2FSkype.munki.recipe" data-ga-click="(Logged out) Header, clicked Sign in, text:sign-in">Sign in</a>
+      <a class="btn" href="/login?return_to=%2Fautopkg%2Frecipes%2Fblob%2Fmaster%2FMunki%2FMakeCatalogsProcessor.py" data-ga-click="(Logged out) Header, clicked Sign in, text:sign-in">Sign in</a>
     </div>
 
     <div class="site-search repo-scope js-site-search" role="search">
@@ -271,7 +271,7 @@
 
 
 <div class="clone-options">You can clone with
-  <form accept-charset="UTF-8" action="/users/set_protocol?protocol_selector=http&amp;protocol_type=clone" class="inline-form js-clone-selector-form " data-remote="true" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="u8MMmUKveniZWPnYjdobpGa0fPdFVS7j8sTyKkSS4KireJWRoa62MoLhdhqJT4wRt1dNzmZ7IrcwUXcUuOSppw==" /></div><button class="btn-link js-clone-selector" data-protocol="http" type="submit">HTTPS</button></form> or <form accept-charset="UTF-8" action="/users/set_protocol?protocol_selector=subversion&amp;protocol_type=clone" class="inline-form js-clone-selector-form " data-remote="true" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="g4WqdpQx5azq37RJrmxTl35lBf+pZ4GX+pEhRbDLx9MT0YTUBx8hUCAIQBlhga63IyAyMLC5FkCY/xD9IdPjGQ==" /></div><button class="btn-link js-clone-selector" data-protocol="subversion" type="submit">Subversion</button></form>.
+  <form accept-charset="UTF-8" action="/users/set_protocol?protocol_selector=http&amp;protocol_type=clone" class="inline-form js-clone-selector-form " data-remote="true" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="0PRl2n7Fonmzi4cyiF6PvSKVTSydNANSNR+YuUV3ND2yrwoNwfTtbggu/lpXE1EzkTrWTEpYZPeG5odX/5U49Q==" /></div><button class="btn-link js-clone-selector" data-protocol="http" type="submit">HTTPS</button></form> or <form accept-charset="UTF-8" action="/users/set_protocol?protocol_selector=subversion&amp;protocol_type=clone" class="inline-form js-clone-selector-form " data-remote="true" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="WOXUiECc82irI520hOOhmHMnwMXo+MboFHC0dLMzz1UI03B83RiBXyyuDkySKs7CbeKK1mosRsJq3R6D5D6v/w==" /></div><button class="btn-link js-clone-selector" data-protocol="subversion" type="submit">Subversion</button></form>.
   <a href="https://help.github.com/articles/which-remote-url-should-i-use" class="help tooltipped tooltipped-n" aria-label="Get help on which URL is right for you.">
     <span class="octicon octicon-question"></span>
   </a>
@@ -295,9 +295,9 @@
 
           
 
-<a href="/autopkg/recipes/blob/3a2c8d5c4150d9144e94dfc8bc185da268be6398/Skype/Skype.munki.recipe" class="hidden js-permalink-shortcut" data-hotkey="y">Permalink</a>
+<a href="/autopkg/recipes/blob/3a2c8d5c4150d9144e94dfc8bc185da268be6398/Munki/MakeCatalogsProcessor.py" class="hidden js-permalink-shortcut" data-hotkey="y">Permalink</a>
 
-<!-- blob contrib key: blob_contributors:v21:614dcebd42ac244321fb4ab73ec06a1b -->
+<!-- blob contrib key: blob_contributors:v21:28599733bcf1122a895f0a65ab1c4ff6 -->
 
 <div class="file-navigation js-zeroclipboard-container">
   
@@ -341,7 +341,7 @@
 
 
             <a class="select-menu-item js-navigation-item js-navigation-open selected"
-               href="/autopkg/recipes/blob/master/Skype/Skype.munki.recipe"
+               href="/autopkg/recipes/blob/master/Munki/MakeCatalogsProcessor.py"
                data-name="master"
                data-skip-pjax="true"
                rel="nofollow">
@@ -351,7 +351,7 @@
               </span>
             </a>
             <a class="select-menu-item js-navigation-item js-navigation-open "
-               href="/autopkg/recipes/blob/mozilla-cdn-s3/Skype/Skype.munki.recipe"
+               href="/autopkg/recipes/blob/mozilla-cdn-s3/Munki/MakeCatalogsProcessor.py"
                data-name="mozilla-cdn-s3"
                data-skip-pjax="true"
                rel="nofollow">
@@ -390,41 +390,36 @@
   </div>
 
   <div class="breadcrumb js-zeroclipboard-target">
-    <span class="repo-root js-repo-root"><span itemscope="" itemtype="http://data-vocabulary.org/Breadcrumb"><a href="/autopkg/recipes" class="" data-branch="master" data-pjax="true" itemscope="url"><span itemprop="title">recipes</span></a></span></span><span class="separator">/</span><span itemscope="" itemtype="http://data-vocabulary.org/Breadcrumb"><a href="/autopkg/recipes/tree/master/Skype" class="" data-branch="master" data-pjax="true" itemscope="url"><span itemprop="title">Skype</span></a></span><span class="separator">/</span><strong class="final-path">Skype.munki.recipe</strong>
+    <span class="repo-root js-repo-root"><span itemscope="" itemtype="http://data-vocabulary.org/Breadcrumb"><a href="/autopkg/recipes" class="" data-branch="master" data-pjax="true" itemscope="url"><span itemprop="title">recipes</span></a></span></span><span class="separator">/</span><span itemscope="" itemtype="http://data-vocabulary.org/Breadcrumb"><a href="/autopkg/recipes/tree/master/Munki" class="" data-branch="master" data-pjax="true" itemscope="url"><span itemprop="title">Munki</span></a></span><span class="separator">/</span><strong class="final-path">MakeCatalogsProcessor.py</strong>
   </div>
 </div>
 
 
   <div class="commit file-history-tease">
     <div class="file-history-tease-header">
-        <img alt="@jessepeterson" class="avatar" height="24" src="https://avatars0.githubusercontent.com/u/694298?v=3&amp;s=48" width="24" />
-        <span class="author"><a href="/jessepeterson" rel="contributor">jessepeterson</a></span>
-        <time datetime="2014-05-21T22:36:23Z" is="relative-time">May 21, 2014</time>
+        <img alt="@gregneagle" class="avatar" height="24" src="https://avatars3.githubusercontent.com/u/700560?v=3&amp;s=48" width="24" />
+        <span class="author"><a href="/gregneagle" rel="contributor">gregneagle</a></span>
+        <time datetime="2014-08-11T22:22:22Z" is="relative-time">Aug 11, 2014</time>
         <div class="commit-title">
-            <a href="/autopkg/recipes/commit/3d9392a644cb5d414721c6eccc2858d5b086af34" class="message" data-pjax="true" title="Now with 7 times more line leading whitespace included, absolutely free! :) Also adjusted MinimumVersion.">Now with 7 times more line leading whitespace included, absolutely fr…</a>
+            <a href="/autopkg/recipes/commit/7edf784ef5e73ea87db0588272778dea0254a797" class="message" data-pjax="true" title="Pylint cleanups for MakeCatalogsProcessor">Pylint cleanups for MakeCatalogsProcessor</a>
         </div>
     </div>
 
     <div class="participation">
       <p class="quickstat">
         <a href="#blob_contributors_box" rel="facebox">
-          <strong>3</strong>
+          <strong>2</strong>
            contributors
         </a>
       </p>
-          <a class="avatar-link tooltipped tooltipped-s" aria-label="jessepeterson" href="/autopkg/recipes/commits/master/Skype/Skype.munki.recipe?author=jessepeterson"><img alt="@jessepeterson" class="avatar" height="20" src="https://avatars2.githubusercontent.com/u/694298?v=3&amp;s=40" width="20" /> </a>
-    <a class="avatar-link tooltipped tooltipped-s" aria-label="gregneagle" href="/autopkg/recipes/commits/master/Skype/Skype.munki.recipe?author=gregneagle"><img alt="@gregneagle" class="avatar" height="20" src="https://avatars1.githubusercontent.com/u/700560?v=3&amp;s=40" width="20" /> </a>
-    <a class="avatar-link tooltipped tooltipped-s" aria-label="timsutton" href="/autopkg/recipes/commits/master/Skype/Skype.munki.recipe?author=timsutton"><img alt="@timsutton" class="avatar" height="20" src="https://avatars0.githubusercontent.com/u/119358?v=3&amp;s=40" width="20" /> </a>
+          <a class="avatar-link tooltipped tooltipped-s" aria-label="gregneagle" href="/autopkg/recipes/commits/master/Munki/MakeCatalogsProcessor.py?author=gregneagle"><img alt="@gregneagle" class="avatar" height="20" src="https://avatars1.githubusercontent.com/u/700560?v=3&amp;s=40" width="20" /> </a>
+    <a class="avatar-link tooltipped tooltipped-s" aria-label="timsutton" href="/autopkg/recipes/commits/master/Munki/MakeCatalogsProcessor.py?author=timsutton"><img alt="@timsutton" class="avatar" height="20" src="https://avatars0.githubusercontent.com/u/119358?v=3&amp;s=40" width="20" /> </a>
 
 
     </div>
     <div id="blob_contributors_box" style="display:none">
       <h2 class="facebox-header">Users who have contributed to this file</h2>
       <ul class="facebox-user-list">
-          <li class="facebox-user-list-item">
-            <img alt="@jessepeterson" height="24" src="https://avatars0.githubusercontent.com/u/694298?v=3&amp;s=48" width="24" />
-            <a href="/jessepeterson">jessepeterson</a>
-          </li>
           <li class="facebox-user-list-item">
             <img alt="@gregneagle" height="24" src="https://avatars3.githubusercontent.com/u/700560?v=3&amp;s=48" width="24" />
             <a href="/gregneagle">gregneagle</a>
@@ -442,9 +437,9 @@
     <div class="file-actions">
 
       <div class="btn-group">
-        <a href="/autopkg/recipes/raw/master/Skype/Skype.munki.recipe" class="btn btn-sm " id="raw-url">Raw</a>
-          <a href="/autopkg/recipes/blame/master/Skype/Skype.munki.recipe" class="btn btn-sm js-update-url-with-hash">Blame</a>
-        <a href="/autopkg/recipes/commits/master/Skype/Skype.munki.recipe" class="btn btn-sm " rel="nofollow">History</a>
+        <a href="/autopkg/recipes/raw/master/Munki/MakeCatalogsProcessor.py" class="btn btn-sm " id="raw-url">Raw</a>
+          <a href="/autopkg/recipes/blame/master/Munki/MakeCatalogsProcessor.py" class="btn btn-sm js-update-url-with-hash">Blame</a>
+        <a href="/autopkg/recipes/commits/master/Munki/MakeCatalogsProcessor.py" class="btn btn-sm " rel="nofollow">History</a>
       </div>
 
 
@@ -458,314 +453,452 @@
     </div>
 
     <div class="file-info">
-        76 lines (75 sloc)
+        107 lines (92 sloc)
         <span class="file-info-divider"></span>
-      2.439 kB
+      3.74 kB
     </div>
   </div>
   
 
-  <div class="blob-wrapper data type-text">
+  <div class="blob-wrapper data type-python">
       <table class="highlight tab-size js-file-line-container" data-tab-size="8">
       <tr>
         <td id="L1" class="blob-num js-line-number" data-line-number="1"></td>
-        <td id="LC1" class="blob-code blob-code-inner js-file-line">&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;</td>
+        <td id="LC1" class="blob-code blob-code-inner js-file-line"><span class="pl-c">#!/usr/bin/python</span></td>
       </tr>
       <tr>
         <td id="L2" class="blob-num js-line-number" data-line-number="2"></td>
-        <td id="LC2" class="blob-code blob-code-inner js-file-line">&lt;!DOCTYPE plist PUBLIC &quot;-//Apple//DTD PLIST 1.0//EN&quot; &quot;http://www.apple.com/DTDs/PropertyList-1.0.dtd&quot;&gt;</td>
+        <td id="LC2" class="blob-code blob-code-inner js-file-line"><span class="pl-c">#</span></td>
       </tr>
       <tr>
         <td id="L3" class="blob-num js-line-number" data-line-number="3"></td>
-        <td id="LC3" class="blob-code blob-code-inner js-file-line">&lt;plist version=&quot;1.0&quot;&gt;</td>
+        <td id="LC3" class="blob-code blob-code-inner js-file-line"><span class="pl-c"># Copyright 2013 Greg Neagle</span></td>
       </tr>
       <tr>
         <td id="L4" class="blob-num js-line-number" data-line-number="4"></td>
-        <td id="LC4" class="blob-code blob-code-inner js-file-line">&lt;dict&gt;</td>
+        <td id="LC4" class="blob-code blob-code-inner js-file-line"><span class="pl-c">#</span></td>
       </tr>
       <tr>
         <td id="L5" class="blob-num js-line-number" data-line-number="5"></td>
-        <td id="LC5" class="blob-code blob-code-inner js-file-line">    &lt;key&gt;Description&lt;/key&gt;</td>
+        <td id="LC5" class="blob-code blob-code-inner js-file-line"><span class="pl-c"># Licensed under the Apache License, Version 2.0 (the &quot;License&quot;);</span></td>
       </tr>
       <tr>
         <td id="L6" class="blob-num js-line-number" data-line-number="6"></td>
-        <td id="LC6" class="blob-code blob-code-inner js-file-line">    &lt;string&gt;Downloads latest Skype disk image and imports into Munki.&lt;/string&gt;</td>
+        <td id="LC6" class="blob-code blob-code-inner js-file-line"><span class="pl-c"># you may not use this file except in compliance with the License.</span></td>
       </tr>
       <tr>
         <td id="L7" class="blob-num js-line-number" data-line-number="7"></td>
-        <td id="LC7" class="blob-code blob-code-inner js-file-line">    &lt;key&gt;Identifier&lt;/key&gt;</td>
+        <td id="LC7" class="blob-code blob-code-inner js-file-line"><span class="pl-c"># You may obtain a copy of the License at</span></td>
       </tr>
       <tr>
         <td id="L8" class="blob-num js-line-number" data-line-number="8"></td>
-        <td id="LC8" class="blob-code blob-code-inner js-file-line">    &lt;string&gt;com.github.autopkg.munki.Skype&lt;/string&gt;</td>
+        <td id="LC8" class="blob-code blob-code-inner js-file-line"><span class="pl-c">#</span></td>
       </tr>
       <tr>
         <td id="L9" class="blob-num js-line-number" data-line-number="9"></td>
-        <td id="LC9" class="blob-code blob-code-inner js-file-line">    &lt;key&gt;Input&lt;/key&gt;</td>
+        <td id="LC9" class="blob-code blob-code-inner js-file-line"><span class="pl-c">#     http://www.apache.org/licenses/LICENSE-2.0</span></td>
       </tr>
       <tr>
         <td id="L10" class="blob-num js-line-number" data-line-number="10"></td>
-        <td id="LC10" class="blob-code blob-code-inner js-file-line">    &lt;dict&gt;</td>
+        <td id="LC10" class="blob-code blob-code-inner js-file-line"><span class="pl-c">#</span></td>
       </tr>
       <tr>
         <td id="L11" class="blob-num js-line-number" data-line-number="11"></td>
-        <td id="LC11" class="blob-code blob-code-inner js-file-line">        &lt;key&gt;NAME&lt;/key&gt;</td>
+        <td id="LC11" class="blob-code blob-code-inner js-file-line"><span class="pl-c"># Unless required by applicable law or agreed to in writing, software</span></td>
       </tr>
       <tr>
         <td id="L12" class="blob-num js-line-number" data-line-number="12"></td>
-        <td id="LC12" class="blob-code blob-code-inner js-file-line">        &lt;string&gt;Skype&lt;/string&gt;</td>
+        <td id="LC12" class="blob-code blob-code-inner js-file-line"><span class="pl-c"># distributed under the License is distributed on an &quot;AS IS&quot; BASIS,</span></td>
       </tr>
       <tr>
         <td id="L13" class="blob-num js-line-number" data-line-number="13"></td>
-        <td id="LC13" class="blob-code blob-code-inner js-file-line">        &lt;key&gt;MUNKI_REPO_SUBDIR&lt;/key&gt;</td>
+        <td id="LC13" class="blob-code blob-code-inner js-file-line"><span class="pl-c"># WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.</span></td>
       </tr>
       <tr>
         <td id="L14" class="blob-num js-line-number" data-line-number="14"></td>
-        <td id="LC14" class="blob-code blob-code-inner js-file-line">        &lt;string&gt;apps&lt;/string&gt;</td>
+        <td id="LC14" class="blob-code blob-code-inner js-file-line"><span class="pl-c"># See the License for the specific language governing permissions and</span></td>
       </tr>
       <tr>
         <td id="L15" class="blob-num js-line-number" data-line-number="15"></td>
-        <td id="LC15" class="blob-code blob-code-inner js-file-line">        &lt;key&gt;pkginfo&lt;/key&gt;</td>
+        <td id="LC15" class="blob-code blob-code-inner js-file-line"><span class="pl-c"># limitations under the License.</span></td>
       </tr>
       <tr>
         <td id="L16" class="blob-num js-line-number" data-line-number="16"></td>
-        <td id="LC16" class="blob-code blob-code-inner js-file-line">        &lt;dict&gt;</td>
+        <td id="LC16" class="blob-code blob-code-inner js-file-line"><span class="pl-s"><span class="pl-pds">&quot;&quot;&quot;</span>autopkg processor to run makecatalogs on a Munki repo<span class="pl-pds">&quot;&quot;&quot;</span></span></td>
       </tr>
       <tr>
         <td id="L17" class="blob-num js-line-number" data-line-number="17"></td>
-        <td id="LC17" class="blob-code blob-code-inner js-file-line">            &lt;key&gt;catalogs&lt;/key&gt;</td>
+        <td id="LC17" class="blob-code blob-code-inner js-file-line">
+</td>
       </tr>
       <tr>
         <td id="L18" class="blob-num js-line-number" data-line-number="18"></td>
-        <td id="LC18" class="blob-code blob-code-inner js-file-line">            &lt;array&gt;</td>
+        <td id="LC18" class="blob-code blob-code-inner js-file-line"><span class="pl-k">import</span> os.path</td>
       </tr>
       <tr>
         <td id="L19" class="blob-num js-line-number" data-line-number="19"></td>
-        <td id="LC19" class="blob-code blob-code-inner js-file-line">                &lt;string&gt;testing&lt;/string&gt;</td>
+        <td id="LC19" class="blob-code blob-code-inner js-file-line"><span class="pl-k">import</span> plistlib</td>
       </tr>
       <tr>
         <td id="L20" class="blob-num js-line-number" data-line-number="20"></td>
-        <td id="LC20" class="blob-code blob-code-inner js-file-line">            &lt;/array&gt;</td>
+        <td id="LC20" class="blob-code blob-code-inner js-file-line"><span class="pl-k">import</span> subprocess</td>
       </tr>
       <tr>
         <td id="L21" class="blob-num js-line-number" data-line-number="21"></td>
-        <td id="LC21" class="blob-code blob-code-inner js-file-line">            &lt;key&gt;description&lt;/key&gt;</td>
+        <td id="LC21" class="blob-code blob-code-inner js-file-line">
+</td>
       </tr>
       <tr>
         <td id="L22" class="blob-num js-line-number" data-line-number="22"></td>
-        <td id="LC22" class="blob-code blob-code-inner js-file-line">            &lt;string&gt;Calling, seeing, messaging and sharing with others – wherever they are.&lt;/string&gt;</td>
+        <td id="LC22" class="blob-code blob-code-inner js-file-line"><span class="pl-k">from</span> autopkglib <span class="pl-k">import</span> Processor, ProcessorError, get_pref</td>
       </tr>
       <tr>
         <td id="L23" class="blob-num js-line-number" data-line-number="23"></td>
-        <td id="LC23" class="blob-code blob-code-inner js-file-line">            &lt;key&gt;display_name&lt;/key&gt;</td>
+        <td id="LC23" class="blob-code blob-code-inner js-file-line">
+</td>
       </tr>
       <tr>
         <td id="L24" class="blob-num js-line-number" data-line-number="24"></td>
-        <td id="LC24" class="blob-code blob-code-inner js-file-line">            &lt;string&gt;Skype&lt;/string&gt;</td>
+        <td id="LC24" class="blob-code blob-code-inner js-file-line"><span class="pl-c1">__all__</span> <span class="pl-k">=</span> [<span class="pl-s"><span class="pl-pds">&quot;</span>MakeCatalogsProcessor<span class="pl-pds">&quot;</span></span>]</td>
       </tr>
       <tr>
         <td id="L25" class="blob-num js-line-number" data-line-number="25"></td>
-        <td id="LC25" class="blob-code blob-code-inner js-file-line">            &lt;key&gt;name&lt;/key&gt;</td>
+        <td id="LC25" class="blob-code blob-code-inner js-file-line">
+</td>
       </tr>
       <tr>
         <td id="L26" class="blob-num js-line-number" data-line-number="26"></td>
-        <td id="LC26" class="blob-code blob-code-inner js-file-line">            &lt;string&gt;%NAME%&lt;/string&gt;</td>
+        <td id="LC26" class="blob-code blob-code-inner js-file-line"><span class="pl-k">class</span> <span class="pl-en">MakeCatalogsProcessor</span>(<span class="pl-e">Processor</span>):</td>
       </tr>
       <tr>
         <td id="L27" class="blob-num js-line-number" data-line-number="27"></td>
-        <td id="LC27" class="blob-code blob-code-inner js-file-line">            &lt;key&gt;unattended_install&lt;/key&gt;</td>
+        <td id="LC27" class="blob-code blob-code-inner js-file-line">    <span class="pl-s"><span class="pl-pds">&quot;&quot;&quot;</span>Runs makecatalogs on a munki repo<span class="pl-pds">&quot;&quot;&quot;</span></span></td>
       </tr>
       <tr>
         <td id="L28" class="blob-num js-line-number" data-line-number="28"></td>
-        <td id="LC28" class="blob-code blob-code-inner js-file-line">            &lt;true/&gt;</td>
+        <td id="LC28" class="blob-code blob-code-inner js-file-line">    input_variables <span class="pl-k">=</span> {</td>
       </tr>
       <tr>
         <td id="L29" class="blob-num js-line-number" data-line-number="29"></td>
-        <td id="LC29" class="blob-code blob-code-inner js-file-line">        &lt;/dict&gt;</td>
+        <td id="LC29" class="blob-code blob-code-inner js-file-line">        <span class="pl-s"><span class="pl-pds">&quot;</span>munki_repo_path<span class="pl-pds">&quot;</span></span>: {</td>
       </tr>
       <tr>
         <td id="L30" class="blob-num js-line-number" data-line-number="30"></td>
-        <td id="LC30" class="blob-code blob-code-inner js-file-line">    &lt;/dict&gt;</td>
+        <td id="LC30" class="blob-code blob-code-inner js-file-line">            <span class="pl-s"><span class="pl-pds">&quot;</span>required<span class="pl-pds">&quot;</span></span>: <span class="pl-c1">True</span>,</td>
       </tr>
       <tr>
         <td id="L31" class="blob-num js-line-number" data-line-number="31"></td>
-        <td id="LC31" class="blob-code blob-code-inner js-file-line">    &lt;key&gt;MinimumVersion&lt;/key&gt;</td>
+        <td id="LC31" class="blob-code blob-code-inner js-file-line">            <span class="pl-s"><span class="pl-pds">&quot;</span>description<span class="pl-pds">&quot;</span></span>: <span class="pl-s"><span class="pl-pds">&quot;</span>Path to the munki repo.<span class="pl-pds">&quot;</span></span>,</td>
       </tr>
       <tr>
         <td id="L32" class="blob-num js-line-number" data-line-number="32"></td>
-        <td id="LC32" class="blob-code blob-code-inner js-file-line">    &lt;string&gt;0.3.0&lt;/string&gt;</td>
+        <td id="LC32" class="blob-code blob-code-inner js-file-line">        },</td>
       </tr>
       <tr>
         <td id="L33" class="blob-num js-line-number" data-line-number="33"></td>
-        <td id="LC33" class="blob-code blob-code-inner js-file-line">    &lt;key&gt;ParentRecipe&lt;/key&gt;</td>
+        <td id="LC33" class="blob-code blob-code-inner js-file-line">        <span class="pl-s"><span class="pl-pds">&quot;</span>force_rebuild<span class="pl-pds">&quot;</span></span>: {</td>
       </tr>
       <tr>
         <td id="L34" class="blob-num js-line-number" data-line-number="34"></td>
-        <td id="LC34" class="blob-code blob-code-inner js-file-line">    &lt;string&gt;com.github.autopkg.download.Skype&lt;/string&gt;</td>
+        <td id="LC34" class="blob-code blob-code-inner js-file-line">            <span class="pl-s"><span class="pl-pds">&quot;</span>required<span class="pl-pds">&quot;</span></span>: <span class="pl-c1">False</span>,</td>
       </tr>
       <tr>
         <td id="L35" class="blob-num js-line-number" data-line-number="35"></td>
-        <td id="LC35" class="blob-code blob-code-inner js-file-line">    &lt;key&gt;Process&lt;/key&gt;</td>
+        <td id="LC35" class="blob-code blob-code-inner js-file-line">            <span class="pl-s"><span class="pl-pds">&quot;</span>description<span class="pl-pds">&quot;</span></span>:</td>
       </tr>
       <tr>
         <td id="L36" class="blob-num js-line-number" data-line-number="36"></td>
-        <td id="LC36" class="blob-code blob-code-inner js-file-line">    &lt;array&gt;</td>
+        <td id="LC36" class="blob-code blob-code-inner js-file-line">                <span class="pl-s"><span class="pl-pds">&quot;</span>If not false or empty or undefined, force a makecatalogs run.<span class="pl-pds">&quot;</span></span>,</td>
       </tr>
       <tr>
         <td id="L37" class="blob-num js-line-number" data-line-number="37"></td>
-        <td id="LC37" class="blob-code blob-code-inner js-file-line">        &lt;dict&gt;</td>
+        <td id="LC37" class="blob-code blob-code-inner js-file-line">        },</td>
       </tr>
       <tr>
         <td id="L38" class="blob-num js-line-number" data-line-number="38"></td>
-        <td id="LC38" class="blob-code blob-code-inner js-file-line">            &lt;key&gt;Arguments&lt;/key&gt;</td>
+        <td id="LC38" class="blob-code blob-code-inner js-file-line">    }</td>
       </tr>
       <tr>
         <td id="L39" class="blob-num js-line-number" data-line-number="39"></td>
-        <td id="LC39" class="blob-code blob-code-inner js-file-line">            &lt;dict&gt;</td>
+        <td id="LC39" class="blob-code blob-code-inner js-file-line">    output_variables <span class="pl-k">=</span> {</td>
       </tr>
       <tr>
         <td id="L40" class="blob-num js-line-number" data-line-number="40"></td>
-        <td id="LC40" class="blob-code blob-code-inner js-file-line">                &lt;key&gt;input_plist_path&lt;/key&gt;</td>
+        <td id="LC40" class="blob-code blob-code-inner js-file-line">        <span class="pl-s"><span class="pl-pds">&quot;</span>makecatalogs_resultcode<span class="pl-pds">&quot;</span></span>: {</td>
       </tr>
       <tr>
         <td id="L41" class="blob-num js-line-number" data-line-number="41"></td>
-        <td id="LC41" class="blob-code blob-code-inner js-file-line">                &lt;string&gt;%pathname%/Skype.app/Contents/Info.plist&lt;/string&gt;</td>
+        <td id="LC41" class="blob-code blob-code-inner js-file-line">            <span class="pl-s"><span class="pl-pds">&quot;</span>description<span class="pl-pds">&quot;</span></span>: <span class="pl-s"><span class="pl-pds">&quot;</span>Result code from the makecatalogs operation.<span class="pl-pds">&quot;</span></span>,</td>
       </tr>
       <tr>
         <td id="L42" class="blob-num js-line-number" data-line-number="42"></td>
-        <td id="LC42" class="blob-code blob-code-inner js-file-line">                &lt;key&gt;plist_version_key&lt;/key&gt;</td>
+        <td id="LC42" class="blob-code blob-code-inner js-file-line">        },</td>
       </tr>
       <tr>
         <td id="L43" class="blob-num js-line-number" data-line-number="43"></td>
-        <td id="LC43" class="blob-code blob-code-inner js-file-line">                &lt;string&gt;CFBundleVersion&lt;/string&gt;</td>
+        <td id="LC43" class="blob-code blob-code-inner js-file-line">        <span class="pl-s"><span class="pl-pds">&quot;</span>makecatalogs_stderr<span class="pl-pds">&quot;</span></span>: {</td>
       </tr>
       <tr>
         <td id="L44" class="blob-num js-line-number" data-line-number="44"></td>
-        <td id="LC44" class="blob-code blob-code-inner js-file-line">            &lt;/dict&gt;</td>
+        <td id="LC44" class="blob-code blob-code-inner js-file-line">            <span class="pl-s"><span class="pl-pds">&quot;</span>description<span class="pl-pds">&quot;</span></span>: <span class="pl-s"><span class="pl-pds">&quot;</span>Error output (if any) from makecatalogs.<span class="pl-pds">&quot;</span></span>,</td>
       </tr>
       <tr>
         <td id="L45" class="blob-num js-line-number" data-line-number="45"></td>
-        <td id="LC45" class="blob-code blob-code-inner js-file-line">            &lt;key&gt;Processor&lt;/key&gt;</td>
+        <td id="LC45" class="blob-code blob-code-inner js-file-line">        },</td>
       </tr>
       <tr>
         <td id="L46" class="blob-num js-line-number" data-line-number="46"></td>
-        <td id="LC46" class="blob-code blob-code-inner js-file-line">            &lt;string&gt;Versioner&lt;/string&gt;</td>
+        <td id="LC46" class="blob-code blob-code-inner js-file-line">    }</td>
       </tr>
       <tr>
         <td id="L47" class="blob-num js-line-number" data-line-number="47"></td>
-        <td id="LC47" class="blob-code blob-code-inner js-file-line">        &lt;/dict&gt;</td>
+        <td id="LC47" class="blob-code blob-code-inner js-file-line">
+</td>
       </tr>
       <tr>
         <td id="L48" class="blob-num js-line-number" data-line-number="48"></td>
-        <td id="LC48" class="blob-code blob-code-inner js-file-line">        &lt;dict&gt;</td>
+        <td id="LC48" class="blob-code blob-code-inner js-file-line">    description <span class="pl-k">=</span> <span class="pl-c1">__doc__</span></td>
       </tr>
       <tr>
         <td id="L49" class="blob-num js-line-number" data-line-number="49"></td>
-        <td id="LC49" class="blob-code blob-code-inner js-file-line">            &lt;key&gt;Arguments&lt;/key&gt;</td>
+        <td id="LC49" class="blob-code blob-code-inner js-file-line">
+</td>
       </tr>
       <tr>
         <td id="L50" class="blob-num js-line-number" data-line-number="50"></td>
-        <td id="LC50" class="blob-code blob-code-inner js-file-line">            &lt;dict&gt;</td>
+        <td id="LC50" class="blob-code blob-code-inner js-file-line">    <span class="pl-k">def</span> <span class="pl-en">main</span>(<span class="pl-smi">self</span>):</td>
       </tr>
       <tr>
         <td id="L51" class="blob-num js-line-number" data-line-number="51"></td>
-        <td id="LC51" class="blob-code blob-code-inner js-file-line">                &lt;key&gt;additional_pkginfo&lt;/key&gt;</td>
+        <td id="LC51" class="blob-code blob-code-inner js-file-line">        <span class="pl-s"><span class="pl-pds">&#39;&#39;&#39;</span>Rebuild Munki catalogs in repo_path<span class="pl-pds">&#39;&#39;&#39;</span></span></td>
       </tr>
       <tr>
         <td id="L52" class="blob-num js-line-number" data-line-number="52"></td>
-        <td id="LC52" class="blob-code blob-code-inner js-file-line">                &lt;dict&gt;</td>
+        <td id="LC52" class="blob-code blob-code-inner js-file-line">
+</td>
       </tr>
       <tr>
         <td id="L53" class="blob-num js-line-number" data-line-number="53"></td>
-        <td id="LC53" class="blob-code blob-code-inner js-file-line">                    &lt;key&gt;version&lt;/key&gt;</td>
+        <td id="LC53" class="blob-code blob-code-inner js-file-line">        cache_dir <span class="pl-k">=</span> get_pref(<span class="pl-s"><span class="pl-pds">&quot;</span>CACHE_DIR<span class="pl-pds">&quot;</span></span>) <span class="pl-k">or</span> os.path.expanduser(</td>
       </tr>
       <tr>
         <td id="L54" class="blob-num js-line-number" data-line-number="54"></td>
-        <td id="LC54" class="blob-code blob-code-inner js-file-line">                    &lt;string&gt;%version%&lt;/string&gt;</td>
+        <td id="LC54" class="blob-code blob-code-inner js-file-line">            <span class="pl-s"><span class="pl-pds">&quot;</span>~/Library/AutoPkg/Cache<span class="pl-pds">&quot;</span></span>)</td>
       </tr>
       <tr>
         <td id="L55" class="blob-num js-line-number" data-line-number="55"></td>
-        <td id="LC55" class="blob-code blob-code-inner js-file-line">                &lt;/dict&gt;</td>
+        <td id="LC55" class="blob-code blob-code-inner js-file-line">        current_run_results_plist <span class="pl-k">=</span> os.path.join(</td>
       </tr>
       <tr>
         <td id="L56" class="blob-num js-line-number" data-line-number="56"></td>
-        <td id="LC56" class="blob-code blob-code-inner js-file-line">            &lt;/dict&gt;</td>
+        <td id="LC56" class="blob-code blob-code-inner js-file-line">            cache_dir, <span class="pl-s"><span class="pl-pds">&quot;</span>autopkg_results.plist<span class="pl-pds">&quot;</span></span>)</td>
       </tr>
       <tr>
         <td id="L57" class="blob-num js-line-number" data-line-number="57"></td>
-        <td id="LC57" class="blob-code blob-code-inner js-file-line">            &lt;key&gt;Processor&lt;/key&gt;</td>
+        <td id="LC57" class="blob-code blob-code-inner js-file-line">        <span class="pl-k">try</span>:</td>
       </tr>
       <tr>
         <td id="L58" class="blob-num js-line-number" data-line-number="58"></td>
-        <td id="LC58" class="blob-code blob-code-inner js-file-line">            &lt;string&gt;MunkiPkginfoMerger&lt;/string&gt;</td>
+        <td id="LC58" class="blob-code blob-code-inner js-file-line">            run_results <span class="pl-k">=</span> plistlib.readPlist(current_run_results_plist)</td>
       </tr>
       <tr>
         <td id="L59" class="blob-num js-line-number" data-line-number="59"></td>
-        <td id="LC59" class="blob-code blob-code-inner js-file-line">        &lt;/dict&gt;</td>
+        <td id="LC59" class="blob-code blob-code-inner js-file-line">        <span class="pl-k">except</span> <span class="pl-c1">IOError</span>:</td>
       </tr>
       <tr>
         <td id="L60" class="blob-num js-line-number" data-line-number="60"></td>
-        <td id="LC60" class="blob-code blob-code-inner js-file-line">        &lt;dict&gt;</td>
+        <td id="LC60" class="blob-code blob-code-inner js-file-line">            run_results <span class="pl-k">=</span> []</td>
       </tr>
       <tr>
         <td id="L61" class="blob-num js-line-number" data-line-number="61"></td>
-        <td id="LC61" class="blob-code blob-code-inner js-file-line">            &lt;key&gt;Arguments&lt;/key&gt;</td>
+        <td id="LC61" class="blob-code blob-code-inner js-file-line">
+</td>
       </tr>
       <tr>
         <td id="L62" class="blob-num js-line-number" data-line-number="62"></td>
-        <td id="LC62" class="blob-code blob-code-inner js-file-line">            &lt;dict&gt;</td>
+        <td id="LC62" class="blob-code blob-code-inner js-file-line">        something_imported <span class="pl-k">=</span> <span class="pl-c1">False</span></td>
       </tr>
       <tr>
         <td id="L63" class="blob-num js-line-number" data-line-number="63"></td>
-        <td id="LC63" class="blob-code blob-code-inner js-file-line">                &lt;key&gt;pkg_path&lt;/key&gt;</td>
+        <td id="LC63" class="blob-code blob-code-inner js-file-line">        <span class="pl-c"># run_results is an array of autopackager.results,</span></td>
       </tr>
       <tr>
         <td id="L64" class="blob-num js-line-number" data-line-number="64"></td>
-        <td id="LC64" class="blob-code blob-code-inner js-file-line">                &lt;string&gt;%pathname%&lt;/string&gt;</td>
+        <td id="LC64" class="blob-code blob-code-inner js-file-line">        <span class="pl-c"># which is itself an array.</span></td>
       </tr>
       <tr>
         <td id="L65" class="blob-num js-line-number" data-line-number="65"></td>
-        <td id="LC65" class="blob-code blob-code-inner js-file-line">                &lt;key&gt;repo_subdirectory&lt;/key&gt;</td>
+        <td id="LC65" class="blob-code blob-code-inner js-file-line">        <span class="pl-c"># look through all the results for evidence that</span></td>
       </tr>
       <tr>
         <td id="L66" class="blob-num js-line-number" data-line-number="66"></td>
-        <td id="LC66" class="blob-code blob-code-inner js-file-line">                &lt;string&gt;%MUNKI_REPO_SUBDIR%&lt;/string&gt;</td>
+        <td id="LC66" class="blob-code blob-code-inner js-file-line">        <span class="pl-c"># something was imported</span></td>
       </tr>
       <tr>
         <td id="L67" class="blob-num js-line-number" data-line-number="67"></td>
-        <td id="LC67" class="blob-code blob-code-inner js-file-line">                &lt;key&gt;version_comparison_key&lt;/key&gt;</td>
+        <td id="LC67" class="blob-code blob-code-inner js-file-line">        <span class="pl-c"># this could probably be done as an array comprehension</span></td>
       </tr>
       <tr>
         <td id="L68" class="blob-num js-line-number" data-line-number="68"></td>
-        <td id="LC68" class="blob-code blob-code-inner js-file-line">                &lt;string&gt;CFBundleVersion&lt;/string&gt;</td>
+        <td id="LC68" class="blob-code blob-code-inner js-file-line">        <span class="pl-c"># but might be harder to grasp...</span></td>
       </tr>
       <tr>
         <td id="L69" class="blob-num js-line-number" data-line-number="69"></td>
-        <td id="LC69" class="blob-code blob-code-inner js-file-line">            &lt;/dict&gt;</td>
+        <td id="LC69" class="blob-code blob-code-inner js-file-line">        <span class="pl-k">for</span> result <span class="pl-k">in</span> run_results:</td>
       </tr>
       <tr>
         <td id="L70" class="blob-num js-line-number" data-line-number="70"></td>
-        <td id="LC70" class="blob-code blob-code-inner js-file-line">            &lt;key&gt;Processor&lt;/key&gt;</td>
+        <td id="LC70" class="blob-code blob-code-inner js-file-line">            <span class="pl-k">for</span> item <span class="pl-k">in</span> result:</td>
       </tr>
       <tr>
         <td id="L71" class="blob-num js-line-number" data-line-number="71"></td>
-        <td id="LC71" class="blob-code blob-code-inner js-file-line">            &lt;string&gt;MunkiImporter&lt;/string&gt;</td>
+        <td id="LC71" class="blob-code blob-code-inner js-file-line">                <span class="pl-k">if</span> item.get(<span class="pl-s"><span class="pl-pds">&quot;</span>Processor<span class="pl-pds">&quot;</span></span>) <span class="pl-k">==</span> <span class="pl-s"><span class="pl-pds">&quot;</span>MunkiImporter<span class="pl-pds">&quot;</span></span>:</td>
       </tr>
       <tr>
         <td id="L72" class="blob-num js-line-number" data-line-number="72"></td>
-        <td id="LC72" class="blob-code blob-code-inner js-file-line">        &lt;/dict&gt;</td>
+        <td id="LC72" class="blob-code blob-code-inner js-file-line">                    <span class="pl-k">if</span> item[<span class="pl-s"><span class="pl-pds">&quot;</span>Output<span class="pl-pds">&quot;</span></span>].get(<span class="pl-s"><span class="pl-pds">&quot;</span>pkginfo_repo_path<span class="pl-pds">&quot;</span></span>):</td>
       </tr>
       <tr>
         <td id="L73" class="blob-num js-line-number" data-line-number="73"></td>
-        <td id="LC73" class="blob-code blob-code-inner js-file-line">    &lt;/array&gt;</td>
+        <td id="LC73" class="blob-code blob-code-inner js-file-line">                        something_imported <span class="pl-k">=</span> <span class="pl-c1">True</span></td>
       </tr>
       <tr>
         <td id="L74" class="blob-num js-line-number" data-line-number="74"></td>
-        <td id="LC74" class="blob-code blob-code-inner js-file-line">&lt;/dict&gt;</td>
+        <td id="LC74" class="blob-code blob-code-inner js-file-line">                        <span class="pl-k">break</span></td>
       </tr>
       <tr>
         <td id="L75" class="blob-num js-line-number" data-line-number="75"></td>
-        <td id="LC75" class="blob-code blob-code-inner js-file-line">&lt;/plist&gt;</td>
+        <td id="LC75" class="blob-code blob-code-inner js-file-line">
+</td>
+      </tr>
+      <tr>
+        <td id="L76" class="blob-num js-line-number" data-line-number="76"></td>
+        <td id="LC76" class="blob-code blob-code-inner js-file-line">        <span class="pl-k">if</span> <span class="pl-k">not</span> something_imported <span class="pl-k">and</span> <span class="pl-k">not</span> <span class="pl-v">self</span>.env.get(<span class="pl-s"><span class="pl-pds">&quot;</span>force_rebuild<span class="pl-pds">&quot;</span></span>):</td>
+      </tr>
+      <tr>
+        <td id="L77" class="blob-num js-line-number" data-line-number="77"></td>
+        <td id="LC77" class="blob-code blob-code-inner js-file-line">            <span class="pl-v">self</span>.output(<span class="pl-s"><span class="pl-pds">&quot;</span>No need to rebuild catalogs.<span class="pl-pds">&quot;</span></span>)</td>
+      </tr>
+      <tr>
+        <td id="L78" class="blob-num js-line-number" data-line-number="78"></td>
+        <td id="LC78" class="blob-code blob-code-inner js-file-line">            <span class="pl-v">self</span>.env[<span class="pl-s"><span class="pl-pds">&quot;</span>makecatalogs_resultcode<span class="pl-pds">&quot;</span></span>] <span class="pl-k">=</span> <span class="pl-c1">0</span></td>
+      </tr>
+      <tr>
+        <td id="L79" class="blob-num js-line-number" data-line-number="79"></td>
+        <td id="LC79" class="blob-code blob-code-inner js-file-line">            <span class="pl-v">self</span>.env[<span class="pl-s"><span class="pl-pds">&quot;</span>makecatalogs_stderr<span class="pl-pds">&quot;</span></span>] <span class="pl-k">=</span> <span class="pl-s"><span class="pl-pds">&quot;</span><span class="pl-pds">&quot;</span></span></td>
+      </tr>
+      <tr>
+        <td id="L80" class="blob-num js-line-number" data-line-number="80"></td>
+        <td id="LC80" class="blob-code blob-code-inner js-file-line">        <span class="pl-k">else</span>:</td>
+      </tr>
+      <tr>
+        <td id="L81" class="blob-num js-line-number" data-line-number="81"></td>
+        <td id="LC81" class="blob-code blob-code-inner js-file-line">            <span class="pl-c"># Generate arguments for makecatalogs.</span></td>
+      </tr>
+      <tr>
+        <td id="L82" class="blob-num js-line-number" data-line-number="82"></td>
+        <td id="LC82" class="blob-code blob-code-inner js-file-line">            args <span class="pl-k">=</span> [<span class="pl-s"><span class="pl-pds">&quot;</span>/usr/local/munki/makecatalogs<span class="pl-pds">&quot;</span></span>,</td>
+      </tr>
+      <tr>
+        <td id="L83" class="blob-num js-line-number" data-line-number="83"></td>
+        <td id="LC83" class="blob-code blob-code-inner js-file-line">                    <span class="pl-v">self</span>.env[<span class="pl-s"><span class="pl-pds">&quot;</span>munki_repo_path<span class="pl-pds">&quot;</span></span>]]</td>
+      </tr>
+      <tr>
+        <td id="L84" class="blob-num js-line-number" data-line-number="84"></td>
+        <td id="LC84" class="blob-code blob-code-inner js-file-line">
+</td>
+      </tr>
+      <tr>
+        <td id="L85" class="blob-num js-line-number" data-line-number="85"></td>
+        <td id="LC85" class="blob-code blob-code-inner js-file-line">            <span class="pl-c"># Call makecatalogs.</span></td>
+      </tr>
+      <tr>
+        <td id="L86" class="blob-num js-line-number" data-line-number="86"></td>
+        <td id="LC86" class="blob-code blob-code-inner js-file-line">            <span class="pl-k">try</span>:</td>
+      </tr>
+      <tr>
+        <td id="L87" class="blob-num js-line-number" data-line-number="87"></td>
+        <td id="LC87" class="blob-code blob-code-inner js-file-line">                proc <span class="pl-k">=</span> subprocess.Popen(</td>
+      </tr>
+      <tr>
+        <td id="L88" class="blob-num js-line-number" data-line-number="88"></td>
+        <td id="LC88" class="blob-code blob-code-inner js-file-line">                    args, <span class="pl-smi">stdout</span><span class="pl-k">=</span>subprocess.PIPE, <span class="pl-smi">stderr</span><span class="pl-k">=</span>subprocess.PIPE)</td>
+      </tr>
+      <tr>
+        <td id="L89" class="blob-num js-line-number" data-line-number="89"></td>
+        <td id="LC89" class="blob-code blob-code-inner js-file-line">                (_, err_out) <span class="pl-k">=</span> proc.communicate()</td>
+      </tr>
+      <tr>
+        <td id="L90" class="blob-num js-line-number" data-line-number="90"></td>
+        <td id="LC90" class="blob-code blob-code-inner js-file-line">            <span class="pl-k">except</span> <span class="pl-c1">OSError</span> <span class="pl-k">as</span> err:</td>
+      </tr>
+      <tr>
+        <td id="L91" class="blob-num js-line-number" data-line-number="91"></td>
+        <td id="LC91" class="blob-code blob-code-inner js-file-line">                <span class="pl-k">raise</span> ProcessorError(</td>
+      </tr>
+      <tr>
+        <td id="L92" class="blob-num js-line-number" data-line-number="92"></td>
+        <td id="LC92" class="blob-code blob-code-inner js-file-line">                    <span class="pl-s"><span class="pl-pds">&quot;</span>makecatalog execution failed with error code <span class="pl-c1">%d</span>: <span class="pl-c1">%s</span><span class="pl-pds">&quot;</span></span></td>
+      </tr>
+      <tr>
+        <td id="L93" class="blob-num js-line-number" data-line-number="93"></td>
+        <td id="LC93" class="blob-code blob-code-inner js-file-line">                    <span class="pl-k">%</span> (err.errno, err.strerror))</td>
+      </tr>
+      <tr>
+        <td id="L94" class="blob-num js-line-number" data-line-number="94"></td>
+        <td id="LC94" class="blob-code blob-code-inner js-file-line">
+</td>
+      </tr>
+      <tr>
+        <td id="L95" class="blob-num js-line-number" data-line-number="95"></td>
+        <td id="LC95" class="blob-code blob-code-inner js-file-line">            <span class="pl-v">self</span>.env[<span class="pl-s"><span class="pl-pds">&quot;</span>makecatalogs_resultcode<span class="pl-pds">&quot;</span></span>] <span class="pl-k">=</span> proc.returncode</td>
+      </tr>
+      <tr>
+        <td id="L96" class="blob-num js-line-number" data-line-number="96"></td>
+        <td id="LC96" class="blob-code blob-code-inner js-file-line">            <span class="pl-v">self</span>.env[<span class="pl-s"><span class="pl-pds">&quot;</span>makecatalogs_stderr<span class="pl-pds">&quot;</span></span>] <span class="pl-k">=</span> err_out</td>
+      </tr>
+      <tr>
+        <td id="L97" class="blob-num js-line-number" data-line-number="97"></td>
+        <td id="LC97" class="blob-code blob-code-inner js-file-line">            <span class="pl-k">if</span> proc.returncode <span class="pl-k">!=</span> <span class="pl-c1">0</span>:</td>
+      </tr>
+      <tr>
+        <td id="L98" class="blob-num js-line-number" data-line-number="98"></td>
+        <td id="LC98" class="blob-code blob-code-inner js-file-line">                <span class="pl-k">raise</span> ProcessorError(<span class="pl-s"><span class="pl-pds">&quot;</span>makecatalogs failed: <span class="pl-c1">%s</span><span class="pl-pds">&quot;</span></span> <span class="pl-k">%</span> err_out)</td>
+      </tr>
+      <tr>
+        <td id="L99" class="blob-num js-line-number" data-line-number="99"></td>
+        <td id="LC99" class="blob-code blob-code-inner js-file-line">            <span class="pl-k">else</span>:</td>
+      </tr>
+      <tr>
+        <td id="L100" class="blob-num js-line-number" data-line-number="100"></td>
+        <td id="LC100" class="blob-code blob-code-inner js-file-line">                <span class="pl-v">self</span>.output(<span class="pl-s"><span class="pl-pds">&quot;</span>Munki catalogs rebuilt!<span class="pl-pds">&quot;</span></span>)</td>
+      </tr>
+      <tr>
+        <td id="L101" class="blob-num js-line-number" data-line-number="101"></td>
+        <td id="LC101" class="blob-code blob-code-inner js-file-line">
+</td>
+      </tr>
+      <tr>
+        <td id="L102" class="blob-num js-line-number" data-line-number="102"></td>
+        <td id="LC102" class="blob-code blob-code-inner js-file-line">
+</td>
+      </tr>
+      <tr>
+        <td id="L103" class="blob-num js-line-number" data-line-number="103"></td>
+        <td id="LC103" class="blob-code blob-code-inner js-file-line"><span class="pl-k">if</span> <span class="pl-c1">__name__</span> <span class="pl-k">==</span> <span class="pl-s"><span class="pl-pds">&quot;</span>__main__<span class="pl-pds">&quot;</span></span>:</td>
+      </tr>
+      <tr>
+        <td id="L104" class="blob-num js-line-number" data-line-number="104"></td>
+        <td id="LC104" class="blob-code blob-code-inner js-file-line">    PROCESSOR <span class="pl-k">=</span> MakeCatalogsProcessor()</td>
+      </tr>
+      <tr>
+        <td id="L105" class="blob-num js-line-number" data-line-number="105"></td>
+        <td id="LC105" class="blob-code blob-code-inner js-file-line">    PROCESSOR.execute_shell()</td>
+      </tr>
+      <tr>
+        <td id="L106" class="blob-num js-line-number" data-line-number="106"></td>
+        <td id="LC106" class="blob-code blob-code-inner js-file-line">
+</td>
       </tr>
 </table>
 
@@ -807,7 +940,7 @@
       <span class="mega-octicon octicon-mark-github" title="GitHub"></span>
 </a>
     <ul class="site-footer-links">
-      <li>&copy; 2015 <span title="0.07317s from github-fe122-cp1-prd.iad.github.net">GitHub</span>, Inc.</li>
+      <li>&copy; 2015 <span title="0.11889s from github-fe137-cp1-prd.iad.github.net">GitHub</span>, Inc.</li>
         <li><a href="https://github.com/site/terms" data-ga-click="Footer, go to terms, text:terms">Terms</a></li>
         <li><a href="https://github.com/site/privacy" data-ga-click="Footer, go to privacy, text:privacy">Privacy</a></li>
         <li><a href="https://github.com/security" data-ga-click="Footer, go to security, text:security">Security</a></li>
