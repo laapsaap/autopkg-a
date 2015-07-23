@@ -23,6 +23,8 @@ the prefPane bundle, which has historically had consistent versioning.
         <string>OracleJava8</string>
         <key>pkginfo</key>
         <dict>
+            <key>category</key>
+            <string>Developer Tools</string>
             <key>catalogs</key>
             <array>
                 <string>testing</string>
