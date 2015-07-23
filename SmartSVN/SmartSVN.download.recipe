@@ -39,7 +39,7 @@
 				<key>Arguments</key>
 				<dict>
 					<key>url</key>
-					<string>http://www.smartsvn.com/download?file=smartsvn/%url%</string>
+					<string>http://www.smartsvn.com/downloads/smartsvn/%url%</string>
 				</dict>
 			</dict>
 			<dict>
