@@ -12,7 +12,7 @@
 			<string>SmartSVN</string>
 		</dict>
 		<key>MinimumVersion</key>
-		<string>8.6.7</string>
+		<string>0.2.0</string>
 		<key>Process</key>
 		<array>
 			<dict>
