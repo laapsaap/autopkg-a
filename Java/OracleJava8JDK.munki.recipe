@@ -11,7 +11,7 @@
         <key>NAME</key>
         <string>OracleJava8JDK</string>
         <key>MUNKI_REPO_SUBDIR</key>
-        <string>utility/Oracle</string>
+        <string>plugins/Java</string>
         <key>pkginfo</key>
         <dict>
             <key>category</key>
